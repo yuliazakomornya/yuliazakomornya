@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yuliazakomornya
 - 👀 I’m interested in learning programing
 - 🌱 I’m currently learning bbasic coding knoweledge 
-- 💞️ I’m looking to collaborate on maybe a project
+- 💞️ I’m looking to collaborate on a educational project
 - 📫 How to reach me yuliazusa89@gmail.com
 
 <!---
